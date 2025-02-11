@@ -3,4 +3,7 @@
 # DOMAIN-KEYWORD,openai
 
 # 域名后缀匹配
-# DOMAIN-SUFFIX,googleapis.com
+ DOMAIN-SUFFIX,antpool.com
+ DOMAIN-SUFFIX,viabtc.com
+ DOMAIN-SUFFIX,zerotier.com
+ DOMAIN-SUFFIX,index.docker.io
